@@ -1,0 +1,13 @@
+.tailorsform .tailorsinput::placeholder{
+    font-size: 12px;
+}
+
+.tailorsform .tailorsinput:focus{
+   border: none;
+   outline: none;
+}
+
+.tailorsform .tailorstextarea::placeholder{
+    padding-left: 5px;
+    padding-top: 5px;
+}

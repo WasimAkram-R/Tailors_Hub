@@ -1,0 +1,8 @@
+.appform .appinput::placeholder{
+    font-size: 12px;
+}
+
+.appform .appinput:focus{
+   border: none;
+   outline: none;
+}

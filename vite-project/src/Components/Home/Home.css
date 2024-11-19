@@ -1,0 +1,65 @@
+@media (min-width:1400px){
+    .tailorsh1{
+        font-size: 90px;
+        /* color: red; */
+        
+    }
+    .tailorsp{
+       font-size: 32px;
+       padding-top: 50px;
+       padding-bottom: 50px;
+    }
+}
+
+@media (max-width:1399px) and (min-width:1200px){
+    .tailorsh1{
+         font-size: 70px;
+    }
+    .tailorsp{
+        font-size: 28px;
+        padding-top: 40px;
+       padding-bottom: 40px;
+     }
+}
+
+@media (max-width:1199px) and (min-width:992px){
+    .tailorsh1{
+         font-size: 60px;
+    }
+    .tailorsp{
+        font-size: 23px;
+        padding-top: 30px;
+       padding-bottom: 30px;
+     }
+}
+
+@media (max-width:991px) and (min-width:768px){
+    .tailorsh1{
+         font-size: 50px;
+    }
+    .tailorsp{
+        font-size: 20px;
+        padding-top: 25px;
+       padding-bottom: 25px;
+     }
+}
+
+@media (max-width:767px) and (min-width:576px){
+    .tailorsh1{
+        font-size: 40px;
+   }
+   .tailorsp{
+       font-size: 18px;
+       padding-top: 20px;
+       padding-bottom: 20px;
+    }
+}
+
+@media (max-width:575px){
+    .tailorsh1{
+         font-size: 22px;
+    }
+    .tailorsp{
+        font-size: 12px;
+     }
+}
