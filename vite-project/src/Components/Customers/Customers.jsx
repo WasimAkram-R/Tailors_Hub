@@ -50,7 +50,7 @@ const Customers = () => {
    
     
     <>
-
+    <div className="container-fluid">
 
 <div className="container pt-5">
 
@@ -97,6 +97,10 @@ const Customers = () => {
       <div className="row">
         {renderPageContent()} {/* Conditionally render content based on current page */}
       </div>
+    </div>
+
+
+
     </div>
   </>
 

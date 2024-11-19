@@ -112,7 +112,7 @@ const Home = () => {
 
 
 
-     {/* <div className="container-fluid"> */}
+     <div className="container-fluid">
         <div className="container">
              
          
@@ -202,7 +202,7 @@ const Home = () => {
 
 
         </div>
-     {/* </div> */}
+     </div>
 
 
     </>

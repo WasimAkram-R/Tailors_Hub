@@ -94,13 +94,13 @@ const One = () => {
         <h5>Modern and casual wear:</h5>
 
         <div className="col-md-4">
-        <img src={tailorimage3} alt=""  className='img-fluid rounded-4'/>
+        <img src={tailorimage3} alt=""  className='img-fluid rounded-4 '/>
         </div>
         <div className="col-md-4">
-        <img src={tailorimage3} alt=""  className='img-fluid rounded-4'/>
+        <img src={tailorimage3} alt=""  className='img-fluid rounded-4 '/>
         </div>
         <div className="col-md-4">
-        <img src={tailorimage3} alt=""  className='img-fluid rounded-4'/>
+        <img src={tailorimage3} alt=""  className='img-fluid rounded-4 '/>
         </div>
     </div>
 

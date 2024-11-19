@@ -21,6 +21,7 @@ const Tailors = () => {
 
       </div> */}
 
+     <div className="container-fluid">
 
       <div className="container py-5">
 
@@ -36,7 +37,7 @@ const Tailors = () => {
         <div className="row pt-3 row-gap-4">
            {/* <div className="col-md-6"> */}
            <h2 className='pb-2'>About TailorsHub</h2>
-             Are you a tailor looking to showcase your skills to a wider audience? At TailorsHub, we offer an exclusive platform for talented tailors like you to connect with potential clients online. Our website helps you create a strong online presence and attract more customers.
+           <p>   Are you a tailor looking to showcase your skills to a wider audience? At TailorsHub, we offer an exclusive platform for talented tailors like you to connect with potential clients online. Our website helps you create a strong online presence and attract more customers.</p>
            {/* </div> */}
 
            {/* <div className="col-md-6">
@@ -45,38 +46,44 @@ const Tailors = () => {
         </div>
 
         <div className="row py-4">
-           <h2 className='pb-2'>Benefits For Tailors:</h2>
 
-           <ul>
+           <h2 className='pb-2'>Benefits For Tailors:</h2>
+            <div className="col">
+            <ul>
             <li><span className='fw-bold'>Showcase Your Design:</span> Display your best designs and creations to a growing audience.</li>
             <li className='my-1'><span className='fw-bold'>Gain Visibility:</span> Reach Customers in your locality and beyond.</li>
             <li><span className='fw-bold'>Easy Communication:</span> Receive inquiries and collaborate with clients effortlessly.</li>
             <li className='my-1'><span className='fw-bold'>Business Growth:</span> Increase your customer base and grow your revenue.</li>
             <li><span className='fw-bold'>Custom Websites:</span> Designed specifically to highlight your skills and services.</li>
            </ul>
+            </div>
         </div>
 
         <div className="row">
            <h2 className='pb-2'>Why Partner With Us?</h2>
 
+           <div className="col">
            <ul>
             <li><span className='fw-bold'>User-Friendly Interface:</span> An easy-to-use platform tailored to your needs.</li>
             <li className='my-1'><span className='fw-bold'>Marketing Support:</span> Promote your services through targeted campaigns.</li>
             <li ><span className='fw-bold'>Tailor-First Focus:</span> Dedicated features for tailor showcase and customer reviews.</li>
             <li className='mt-1'><span className='fw-bold'>Take Orders:</span> Get a professional platform to display your work and take orders.</li>
            </ul>
+           </div>
         </div>
 
 
         <div className="row py-4">
            <h2 className='pb-2'>How It Works:</h2>
 
-           <ul>
+          <div className="col">
+          <ul>
             <li><span className='fw-bold'>Tailors Profiles:</span> Tailors login and share their needs for an online presence to tailorshub platform.</li>
             <li className='my-1'><span className='fw-bold'>Website Owners:</span>  Explore tailor profiles and pitch your services.</li>
             <li><span className='fw-bold'>Collaborate:</span> Create custom websites that align with the tailor's vision and business goals.</li>
             <li className='mt-1'><span className='fw-bold'>Gain Visibility:</span> Reach Customers in your locality and beyond and take orders.</li>
            </ul>
+          </div>
         </div>
         
          <div className="row row-gap-5 ">
@@ -111,6 +118,11 @@ const Tailors = () => {
 
 
       </div> 
+
+      
+      </div>
+
+   
 
 
       
